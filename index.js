@@ -3,9 +3,9 @@
  * Module dependencies.
  */
 
-var Notification = require('notification').Notification
-  , inherit = require('inherit')
-  , o = require('jquery');
+var Notification = require('component-notification').Notification
+  , inherit = require('component-inherit')
+  , o = require('component-jquery');
 
 /**
  * Expose `notify`.

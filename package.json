@@ -1,0 +1,22 @@
+{
+  "name": "component-confirmation-notification",
+  "description": "Confirmation notification component",
+  "version": "0.0.1",
+  "keywords": [
+    "confirmation",
+    "confirm",
+    "notify",
+    "notification",
+    "ui",
+    "growl"
+  ],
+  "styles": [
+    "notification.css"
+  ],
+  "dependencies": {
+    "component-inherit": "git://github.com/npmcomponent/component-inherit.git",
+    "component-jquery": "git://github.com/npmcomponent/component-jquery.git",
+    "component-notification": "git://github.com/npmcomponent/component-notification.git"
+  },
+  "license": "MIT"
+}
